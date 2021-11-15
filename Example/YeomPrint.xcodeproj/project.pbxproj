@@ -41,11 +41,11 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		6BF7FE9B1EA6263987DFBD01 /* Pods_YeomPrint_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YeomPrint_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A3FE64EF686E4A27EAAA3143 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		A3FE64EF686E4A27EAAA3143 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		C87A9E2D539EDF28FB9AADCA /* Pods_YeomPrint_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YeomPrint_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D852DA978B26D907EEADF8C5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		D852DA978B26D907EEADF8C5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		E55C03F1D607EB267687D8CE /* Pods-YeomPrint_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YeomPrint_Example.release.xcconfig"; path = "Target Support Files/Pods-YeomPrint_Example/Pods-YeomPrint_Example.release.xcconfig"; sourceTree = "<group>"; };
-		E6A138B824A2A98F4AA0442D /* YeomPrint.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = YeomPrint.podspec; path = ../YeomPrint.podspec; sourceTree = "<group>"; };
+		E6A138B824A2A98F4AA0442D /* YeomPrint.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YeomPrint.podspec; path = ../YeomPrint.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E83E959B8F8AADCC5342D09B /* Pods-YeomPrint_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YeomPrint_Example.debug.xcconfig"; path = "Target Support Files/Pods-YeomPrint_Example/Pods-YeomPrint_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -77,7 +77,6 @@
 				57F058AA6376D14F92080F9B /* Pods-YeomPrint_Tests.debug.xcconfig */,
 				5EA51C3497338781BBD04C7F /* Pods-YeomPrint_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
