@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'YeomPrint'
   s.version          = '0.1.0'
-  s.summary          = '이것은 인사를 출력해주는 라이브러리입니다!'
+  s.summary          = '첫번째 라이브러리 그래프그릴래!'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
