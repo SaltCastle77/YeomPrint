@@ -1,0 +1,22 @@
+{
+  "name": "YeomPrint",
+  "version": "0.1.0",
+  "summary": "A short description of YeomPrint.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SaltCastle77/YeomPrint",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SaltCastle77": "lovelove33j1@naver.com"
+  },
+  "source": {
+    "git": "https://github.com/SaltCastle77/YeomPrint.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YeomPrint/Classes/**/*"
+}

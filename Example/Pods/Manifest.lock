@@ -1,0 +1,16 @@
+PODS:
+  - YeomPrint (0.1.0)
+
+DEPENDENCIES:
+  - YeomPrint (from `../`)
+
+EXTERNAL SOURCES:
+  YeomPrint:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YeomPrint: 1ec358acd3c1a842670f8771c90eb97a437a3772
+
+PODFILE CHECKSUM: 090a786ec215414838abcc84b465c3a3a0ebe85c
+
+COCOAPODS: 1.10.1

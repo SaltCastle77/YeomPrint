@@ -1,0 +1,6 @@
+framework module YeomPrint {
+  umbrella header "YeomPrint-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_YeomPrint_Tests {
+  umbrella header "Pods-YeomPrint_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
